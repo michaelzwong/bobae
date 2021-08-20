@@ -1,0 +1,6 @@
+[submodule "bobae-server"]
+	path = bobae-server
+	url = git@github.com:michaelzwong/bobae-server.git
+[submodule "bobae-ui"]
+	path = bobae-ui
+	url = https://github.com/michaelzwong/bobae-ui.git
